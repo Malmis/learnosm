@@ -28,7 +28,7 @@ translations:
     feedbackspan: "Var detta kapitel lärorikt?"
     feedback: "Hjälp oss att få reda på fel och att förbättra guiderna!"
     getstarted: "Kom igång"
-	es:
+  es:
     tagline: "Aprende OpenStreetMap Paso a Paso"
     contribute: "Ayuda a mejorar las guías"
     trainingspan: "¿Eres el organizador de un taller?"
